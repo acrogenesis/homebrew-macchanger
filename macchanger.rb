@@ -2,9 +2,9 @@ require "formula"
 
 class Macchanger < Formula
   homepage "https://github.com/acrogenesis/macchanger"
-  version "1.1"
-  url "https://github.com/acrogenesis/macchanger/archive/v1.1.tar.gz"
-  sha1 "5053296fce27173cbd22e51e8888f67b39a35e0c"
+  version "1.2"
+  url "https://github.com/acrogenesis/macchanger/archive/v1.2.tar.gz"
+  sha1 "86476262527eaa36955e9c2a0747fc0eca53f522"
 
   def install
     bin.install "bin/macchanger"
